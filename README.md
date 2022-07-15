@@ -1,4 +1,4 @@
-# calendar-app
+# olab-calendar-app
 
 ## Project setup
 ```
